@@ -5,5 +5,5 @@
 4. 七段顯示器用來顯示剩餘秒數、LED陣列用來計分，2分鐘（120秒）內獲得16分即獲勝。
 5. 成功時會發出兩聲短的嗶聲，失敗時發出一聲長嗶聲。
 
-assignments: 見final_test.qsf
-介紹影片: https://drive.google.com/file/d/1deQ8nr_ie-L7mcuVjagYkO4Kh_MQoOtq/view?usp=sharing
+- assignments: 見final_test.qsf
+- 介紹影片: https://drive.google.com/file/d/1deQ8nr_ie-L7mcuVjagYkO4Kh_MQoOtq/view?usp=sharing
